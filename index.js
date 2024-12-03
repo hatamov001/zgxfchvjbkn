@@ -19,7 +19,6 @@ server.listen(port, () => {
   console.log(`JSON Server is running on port ${port}`)
 })
 
-
 // const jsonServer = require("json-server"); // importing json-server library
 // const server = jsonServer.create();
 // const router = jsonServer.router("db.json");
@@ -30,5 +29,3 @@ server.listen(port, () => {
 // server.use(router);
 
 // server.listen(port);
-
-
